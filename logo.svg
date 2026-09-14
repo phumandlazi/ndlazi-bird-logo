@@ -1,0 +1,46 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  
+  <!-- Long tail (distinctive feature of mousebirds) -->
+  <path d="M 85 95 Q 40 80 20 50 Q 15 45 20 40 Q 45 60 90 75" fill="#5a4a3a" stroke="#3a2a1a" stroke-width="1.5"/>
+  
+  <!-- Tail feathers detail -->
+  <path d="M 85 95 Q 50 85 25 55" fill="none" stroke="#3a2a1a" stroke-width="1" opacity="0.6"/>
+  <path d="M 85 100 Q 45 95 15 70" fill="none" stroke="#3a2a1a" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Body -->
+  <ellipse cx="100" cy="100" rx="28" ry="32" fill="#6b5b4b" stroke="#3a2a1a" stroke-width="1.5"/>
+  
+  <!-- Head -->
+  <circle cx="115" cy="80" r="18" fill="#7a6a5a" stroke="#3a2a1a" stroke-width="1.5"/>
+  
+  <!-- Eye -->
+  <circle cx="122" cy="77" r="4" fill="#2a2a2a"/>
+  <circle cx="123" cy="76" r="1.5" fill="#ffffff"/>
+  
+  <!-- Beak -->
+  <path d="M 132 80 L 145 79 L 132 82 Z" fill="#8b7b6b" stroke="#3a2a1a" stroke-width="1"/>
+  
+  <!-- Wing detail -->
+  <ellipse cx="95" cy="105" rx="18" ry="20" fill="#5a4a3a" stroke="#3a2a1a" stroke-width="1" opacity="0.7"/>
+  
+  <!-- Wing feather lines -->
+  <path d="M 85 95 Q 90 110 95 120" fill="none" stroke="#3a2a1a" stroke-width="1" opacity="0.5"/>
+  <path d="M 90 92 Q 95 110 100 122" fill="none" stroke="#3a2a1a" stroke-width="1" opacity="0.5"/>
+  <path d="M 95 90 Q 100 110 105 122" fill="none" stroke="#3a2a1a" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Chest highlight -->
+  <ellipse cx="100" cy="110" rx="15" ry="18" fill="#8a7a6a" opacity="0.6"/>
+  
+  <!-- Legs -->
+  <line x1="98" y1="128" x2="98" y2="140" stroke="#3a2a1a" stroke-width="2"/>
+  <line x1="104" y1="128" x2="104" y2="140" stroke="#3a2a1a" stroke-width="2"/>
+  
+  <!-- Feet -->
+  <circle cx="98" cy="142" r="2" fill="#3a2a1a"/>
+  <circle cx="104" cy="142" r="2" fill="#3a2a1a"/>
+  <line x1="96" y1="142" x2="94" y2="143" stroke="#3a2a1a" stroke-width="1"/>
+  <line x1="100" y1="142" x2="100" y2="144" stroke="#3a2a1a" stroke-width="1"/>
+  <line x1="106" y1="142" x2="108" y2="143" stroke="#3a2a1a" stroke-width="1"/>
+</svg>
